@@ -1,4 +1,4 @@
-# Comparison between projects using Bracken and Qiime2
+# Comparison between projects using Bracken2 and Qiime2
 
 ## 1.PRJNA870642 (GUT)
 
